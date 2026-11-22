@@ -72,9 +72,8 @@ La app se organiza en 22 pestañas agrupadas en seis áreas.
 | **Datos** | Almacenamiento local del navegador + respaldo JSON |
 
 ```
-├── index.html                          ← la aplicación completa
-├── MinaLaSuerte_GestionMinera v4.html  ← copia de la versión 4
-└── assets/                             ← banner y capturas de este README
+├── index.html   ← la aplicación completa
+└── assets/      ← banner y capturas de este README
 ```
 
 ---
